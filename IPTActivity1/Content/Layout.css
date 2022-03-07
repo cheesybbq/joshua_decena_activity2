@@ -1,0 +1,17 @@
+﻿body {
+ 
+    list-style-type: none;
+    margin: 5px;
+    padding: 1px;
+    width: 1320px;
+    background-color: bisque;
+}
+
+header {
+    background-image: url("px1.gif");
+    height: 98vh;
+    background-size: cover;
+    background-position: center;
+}
+
+
